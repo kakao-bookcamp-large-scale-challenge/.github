@@ -13,17 +13,17 @@
 | mac.lee(이원호) | AI | - 채팅 삭제 기능 개발 |
 
 <br>
+ 
+## 목차 <a name = "index"></a>
 
-## 목차
-
-### [1. 대회 설명](https://github.com/kakao-bookcamp-large-scale-challenge#%EB%8C%80%ED%9A%8C-%EC%84%A4%EB%AA%85)
-### [2. 아키텍쳐 및 구현 내용](https://github.com/kakao-bookcamp-large-scale-challenge#%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-### [3. 결과](https://github.com/kakao-bookcamp-large-scale-challenge#%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-### [4. 회고](https://github.com/kakao-bookcamp-large-scale-challenge#%EF%B8%8F-%ED%9A%8C%EA%B3%A0)
+### [1. 대회 설명](#idea)
+### [2. 아키텍쳐 및 구현 내용](#structure)
+### [3. 결과](#result)
+### [4. 회고](#review)
 
 <br>
 
-## 대회 설명
+## 대회 설명 <a name = "idea"></a>
 
 주어진 시간 동안, 동일한 서비스를 대상으로 실시간 대규모 트래픽을 견딜 수 있는 서비스 및 아키텍쳐 설계 및 개발
 
@@ -85,7 +85,7 @@
 
 <br>
 
-## 아키텍쳐 및 구현 내용
+## 아키텍쳐 및 구현 내용 <a name = "structure"></a>
 
 <img width="679" height="777" alt="image" src="https://github.com/user-attachments/assets/fc82a615-8640-4a03-b1e9-ad66a6559abb" />
 
@@ -143,7 +143,7 @@
 
 <br>
 
-## 🥇 결과
+## 🥇 결과 <a name = "result"></a>
 
 ### 대상 수상 🎉🎉
 
@@ -162,7 +162,7 @@
 
 <br>
 
-## ✏️ 회고
+## ✏️ 회고 <a name = "review"></a>
 
 지금까지는 **서비스를 만드는 데에만 집중**하며 개발을 진행해왔습니다. 
 
