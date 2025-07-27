@@ -12,12 +12,16 @@
 | andrea.jeon(전찬호) | 클라우드 (Devops) | - 30개 인스턴스의 아키텍쳐 설계 <br> - Prometeous · Grafana 모니터링 환경 구축 <br> - Docker + Github Actions 기반 CI/CD 개발 |
 | mac.lee(이원호) | AI | - 채팅 삭제 기능 개발 |
 
+<br>
+
 ## 목차
 
-- 대회 설명
-- 아키텍쳐 및 구현 내용
-- 결과
-- 회고
+### [1. 대회 설명](https://github.com/kakao-bookcamp-large-scale-challenge#%EB%8C%80%ED%9A%8C-%EC%84%A4%EB%AA%85)
+### [2. 아키텍쳐 및 구현 내용](https://github.com/kakao-bookcamp-large-scale-challenge#%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+### [3. 결과](https://github.com/kakao-bookcamp-large-scale-challenge#%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+### [4. 회고](https://github.com/kakao-bookcamp-large-scale-challenge#%EF%B8%8F-%ED%9A%8C%EA%B3%A0)
+
+<br>
 
 ## 대회 설명
 
@@ -81,7 +85,7 @@
 
 <br>
 
-## 아키텍쳐
+## 아키텍쳐 및 구현 내용
 
 <img width="679" height="777" alt="image" src="https://github.com/user-attachments/assets/fc82a615-8640-4a03-b1e9-ad66a6559abb" />
 
